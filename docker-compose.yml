@@ -1,4 +1,4 @@
-build:
+version:
   docker:
     worker:
       build: .
