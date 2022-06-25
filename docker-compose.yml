@@ -1,6 +1,6 @@
 build:
   docker:
-    worker: Dockerfile
+    worker:
       build: .
       environment:
         API_ID: $API_ID
